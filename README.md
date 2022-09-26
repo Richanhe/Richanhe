@@ -5,4 +5,4 @@
 - Atualmente estou aprendendo OOP(Object-Oriented Programming) ou como nós popularmente chamamos no Brasil POO(Programação Orientada a Objetos)
 - Faço algumas comissões envolvendo scripts para alguns jogos que ultilizam a linguagem LUA(atualmente sendo a que eu mais domino)
 
-<img src="https://media.discordapp.net/attachments/941131680897441832/998321185999822938/caption-22.gif">
+<img src="https://media.discordapp.net/attachments/839153409730281475/991574133970325645/E09C45F1-D8BB-4B1A-817E-F68EDC54B99E.gif">
