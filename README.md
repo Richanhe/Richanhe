@@ -43,6 +43,7 @@ Desde então estou apaixonado nessa área da programação.
 
  ## Algumas coisas que sei e não são relacionados a programação:
  
-- Animação (Básico) Exemplo:
-<a href="https://www.youtube.com/watch?v=kTCOsM6OZEE&t=10s&ab_channel=RichanheGamer" target="_blank">Animação Básica de Boneco Palito</a>
+- Animação 2D (Básico) Exemplo:
+<a href="https://www.youtube.com/watch?v=kTCOsM6OZEE&t=10s&ab_channel=RichanheGamer">Animação Básica de Boneco Palito</a>
+- Animação 3D (Médio)
 - Modelagem 3D (Básico)
