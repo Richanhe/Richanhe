@@ -1,6 +1,7 @@
 ## Olá! Me chamo Richard de Oliveira 
 
-- Tenho 16 anos e estou cursando o segundo ano do ensino médio técnico em informática na TECPUC/PUCPR.
+- Tenho 16 anos e estou cursando o segundo ano do ensino médio técnico em informática na TECPUC/PUCPR
+- Gosto de jogar com amigos, aprender coisas novas e principalmente me superar fazendo algo 😁
 - Faço algumas comissões envolvendo scripts para alguns jogos que ultilizam a linguagem LUA (atualmente sendo a que eu mais domino)
 - Atualmente estudando OOP (Object-Oriented Programming) ou como popularmente chamado aqui no Brasil POO (Programação Orientada a Objeto)
 
