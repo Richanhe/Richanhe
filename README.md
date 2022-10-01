@@ -41,7 +41,7 @@ Desde então estou apaixonado nessa área da programação.
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
 </p>
 
- # Algumas coisas que sei e não são relacionados a programação:
+ ## Algumas coisas que sei e não são relacionados a programação:
  
 - Animação (Básico) Exemplo:
 <a target="_blank" href="https://www.youtube.com/watch?v=kTCOsM6OZEE&t=10s&ab_channel=RichanheGamer">Animação Básica de Boneco Palito</a>
