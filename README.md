@@ -47,3 +47,5 @@ Desde então estou apaixonado nessa área da programação.
 <a href="https://www.youtube.com/watch?v=kTCOsM6OZEE&t=10s&ab_channel=RichanheGamer">Animação Básica de Boneco Palito</a>
 - Animação 3D (Médio)
 - Modelagem 3D (Básico)
+- Design (Básico) Exemplos:
+<a href="https://www.artstation.com/richanhe">Meu Portfólio De Design</a>
