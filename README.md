@@ -50,3 +50,5 @@ Desde então estou apaixonado nessa área da programação.
 - Modelagem 3D (Básico)
 - Design (Básico) Exemplos:
 <a href="https://www.artstation.com/richanhe">Meu Portfólio De Design</a>
+, 
+<a href="https://richarok18.wixsite.com/portfolio">Site Projeto Escolar</a>
