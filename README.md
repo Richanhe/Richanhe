@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Game+Developer+(Roblox);Always+Learning+New+Things"
+    src="https://raw.githubusercontent.com/gist/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436/raw/c48ed7979067bf7212635f5ad75f15ab3d04540e/hackerman.gif"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/gist/yursky/bc5cbd02c2e03eeda9ec791f3b1eb436/raw/c48ed7979067bf7212635f5ad75f15ab3d04540e/hackerman.gif"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Game+Developer+(Roblox);Always+Learning+New+Things"
   />
 </p>
 
