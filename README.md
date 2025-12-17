@@ -28,17 +28,13 @@ Atualmente, estou cursando Engenharia de Software e buscando evoluir como **dese
 
 ---
 
-## Tech Stack
+## Tecnologias e Ferramentas
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,git&theme=dark"
   />
 </p>
-
----
-
-## Tecnologias e Ferramentas
 
 ### Front-end
 
