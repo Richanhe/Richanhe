@@ -7,7 +7,7 @@
 # Olá, eu sou o Richard :)
 
  **Estudante de Engenharia de Software** na **PUCPR (Curitiba)**  
- **Atualmente trabalhando** na *Seccional Comércio Internacional Ltda*  
+ **Atualmente trabalhando** na *SPRO IT Solutions*  
  **Interesses:** Programação, desenvolvimento de jogos e tecnologia em geral
 
 ---
